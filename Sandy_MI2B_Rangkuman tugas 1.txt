@@ -1,0 +1,12 @@
+Sandy Nur Dwi Satrio
+MI 2B
+Pemrograman Web Lanjut
+
+Web Framework adalah sebuah web yang dirancang agar memudahkan pengguna untuk membuat pembangunan kerangka kerja pada web.
+Pada web framework sendiri yang telah diajarkan ,ternyata selain menggunakan php untuk web nya bisa juga dengan laravel yang dirancang lebih mudah lagi.
+Tujuan web framework ini adalah untuk memudahkan pengguna /programmer untuk merancang web.
+Untuk awal saya menginstalasi laravel dan mengikuti cara cara nya itu masih sulit dipahami.
+Akhirnya saya tanya teman dari kelas saya masih juga belum bisa dipahami.
+Pada setiap step yang saya lakukan selalu terjadi kesalahan dan error
+Lalu step by step saya coba diulang ulang terus dan akhirnya ke instal juga.
+Instalasi laravel telah usai.
